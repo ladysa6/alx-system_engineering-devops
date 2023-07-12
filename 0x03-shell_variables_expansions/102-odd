@@ -1,0 +1,2 @@
+#!/vin/bash
+paste -d, - - | cut -d, -fl
